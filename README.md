@@ -4,7 +4,7 @@
 <h3 align="center">💻 MERN Stack Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avneesh-kumar14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Akash-github-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avneesh-kumar14&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh-kumar14&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-github-1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-github-1&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
 </p>
 
 ---
@@ -66,16 +66,16 @@
 ### 📫 Connect With Me  
 
 <p align="center">
- <a href="https://www.linkedin.com/in/avneesh-kumar-3393ba298" target="_blank">
+ <a href="https://www.linkedin.com/in/akash-kumar-yadav-45644726b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rajneeshavneeshkar@gmail.com">
+  <a href="mailto:akashkumaryadav22122004">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/avneesh.314" target="_blank">
+  <a href="https://instagram.com/a_akash__22" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/avneesh-kumar14">
+  <a href="https://github.com/Akash-github-1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
